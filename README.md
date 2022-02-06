@@ -14,5 +14,5 @@ The emphasis on sustainability. So different from the usa, where no one cares.
 
 ## Feedback
 
-Once you commit and push your work to Github, I'll update this section with feedback.
+I agree - it is definitely nice to be in a place where people seem to be engaging in trying for humanity to be less wasteful.  And awesome - glad you are excited about developing web app skills!
 
